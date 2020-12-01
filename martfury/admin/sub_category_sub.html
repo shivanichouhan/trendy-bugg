@@ -1,0 +1,19 @@
+<?php
+include"../include/database.php";
+$obj=new database();
+
+
+$category=str_replace("'", "\'",$_POST['category']);
+$sub_category=str_replace("'", "\'",$_POST['sub_category']);
+
+
+$rs=$obj->insertsub_category($category,$sub_category);
+if($rs)
+{
+	header("location:sub_category.php");
+}
+else
+{
+	header("location:sub_category.php");
+}
+?>
