@@ -1,0 +1,13 @@
+{
+  password: '$2a$10$gLYVZ8pLFLq0XqW8nZ5iGOICohQEeNlIfISODOJDOd8miZu0kFbFu',
+  otp: '127335',
+  is_allow: 0,
+  user_status: 0,
+  wallet: 0,
+  subscriber: [],
+  _id: 5fc1f9c37d51eb3d3df3e9e8,
+  email: 'shivanichouhan144@gmail.com',
+  user_saring_code: 'KKI3RFIK',
+  accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1ZmMxZjljMzdkNTFlYjNkM2RmM2U5ZTgiLCJpYXQiOjE2MDY1NDc5MDgsImV4cCI6MTYwNjYzNDMwOH0.Kau8gue7oqJP--Im2rHE2RHWeFb-GKC7-MPKoSx6nsw',
+  __v: 0
+}
